@@ -2,7 +2,7 @@
   "name": "note_taker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,9 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PierreParienteDimitrov/note_taker/issues"
-  },
   "homepage": "https://github.com/PierreParienteDimitrov/note_taker#readme",
   "dependencies": {
     "express": "^4.17.1",
