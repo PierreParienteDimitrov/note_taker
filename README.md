@@ -1,3 +1,3 @@
 # note_taker
 
-## Not finished yet, will finish by Sept. 20.
+## Not finished yet, will finish by Sept. 21 (resolving issues with heroku)
